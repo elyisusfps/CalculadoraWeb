@@ -8,7 +8,7 @@ calculadora.js
 
 PASOS PARA USAR LA CALCULADORA
 
-1.- Para uso de la calculadora dirigirse a este enlace : https://github.com/elyisusfps/CalculadoraWeb
+1.- Para uso de la calculadora dirigirse a este enlace : https://github.com/elyisusfps/calculadora.frontend
 
 2.- hay  dos opciones para usarse , hacer un clon o descargar una copia con la opcion download zip. Una vez descargada descomprimir el archivo.
 
